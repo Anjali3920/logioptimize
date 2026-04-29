@@ -1,0 +1,24 @@
+{
+  "overview": "A comprehensive logistics network optimization showcase website featuring 5 algorithm modules: Sorting/Delivery Prioritization, Graph Route Optimization, Greedy Vehicle Assignment, Dynamic Programming Cost Minimization, and Divide & Conquer Scalability. Interactive visualizations, performance analysis, and GitHub-ready code snippets.",
+  "features": [
+    "Interactive delivery sorting with Merge Sort, Quick Sort, Heap Sort and VIP queue",
+    "Graph route visualization with Dijkstra and Bellman-Ford shortest paths",
+    "Vehicle assignment with greedy vs DP comparison",
+    "DP table visualization and Floyd-Warshall all-pairs shortest path",
+    "Divide & conquer zone division with scalability curves",
+    "Performance analysis charts comparing all algorithms",
+    "GitHub code page with syntax-highlighted algorithm implementations",
+    "Dark neon-accent professional dashboard UI"
+  ],
+  "category": "tools-utilities",
+  "tags": [
+    "logistics",
+    "algorithms",
+    "optimization",
+    "visualization",
+    "data-structures",
+    "academic",
+    "dashboard"
+  ],
+  "last_updated": "2026-04-28T16:31:15.342Z"
+}
